@@ -9,3 +9,22 @@
     left: 514px;
   }
   
+  .container {
+    background-color: #232a34;
+    padding: 32px;
+    border-radius: 30px;
+    width: 412px;
+    height: 416px;
+    top: 195px;
+    left: 514px;
+}
+
+@media (max-width: 768px) {
+  .container {
+    padding: 20px;
+    width: 412px;
+    height: 416px;
+    top: 195px;
+    left: 514px;
+  }
+}
